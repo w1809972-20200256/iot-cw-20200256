@@ -3,7 +3,8 @@ This project contains the code for fulfilling the requirements of 6NTCM009W Inte
 
 # IoT Prototype
 
-This project utilizes a **Raspberry Pi Pico W** and a **BME280 sensor** to collect environmental data (temperature and pressure). The data is sent to a **Google Sheets App Script** via HTTP requests for real-time logging and visualization.
+This project utilizes a **Raspberry Pi Pico W** and a **BMP280 sensor** to collect environmental data (temperature and pressure). 
+It involves in presenting this data in the shell, a web page using a simple web-server and also by using Google Sheets as a data logger for real-time logging and visualization.
 
 ## Features
 - Reads **temperature** and **pressure** using the BMP280 sensor
