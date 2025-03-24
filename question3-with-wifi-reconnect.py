@@ -177,7 +177,7 @@ ssid = "Galaxy A53"
 password = "abc123456"
 
 # API URLs
-SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz6yKjic2ygZpyFZFPdMy6BYjJPMlfMjt385p27YiSSGAhIQWlUp3UtkpqLgAokY9cS9g/exec"
+SCRIPT_URL = ""
 TIME_URL = "https://timeapi.io/api/Time/current/zone?timeZone=Asia/Colombo"
 
 # Setup
